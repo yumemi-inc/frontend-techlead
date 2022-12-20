@@ -1,9 +1,9 @@
 name: website
 
-# on:
-#   push:
-#     branches:
-#       - main
+on:
+  push:
+    branches:
+      - feature/deploy-action
 
 jobs:
   publish:
