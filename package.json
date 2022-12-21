@@ -1,0 +1,21 @@
+{
+  "name": "frontend-techlead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p dist || cp index.html ./dist/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yumemi-inc/frontend-techlead.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yumemi-inc/frontend-techlead/issues"
+  },
+  "homepage": "https://yumemi-inc.github.io/frontend-techlead/"
+}
